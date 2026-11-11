@@ -1,0 +1,19 @@
+# KiCad
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.lck
+\#auto_saved_files#
+_autosave-*
+# QMK / builds
+.build/
+*.uf2
+*.hex
+*.bin
+# Python
+__pycache__/
+*.egg-info/
+.venv/
+# OS / editors
+.DS_Store
+*.swp
